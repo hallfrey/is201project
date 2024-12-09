@@ -1,0 +1,15 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.site-heading-lower{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.mb-3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    font-family: 'Courier New', Courier, monospace;
+}
+#mainNav{
+    background-color:saddlebrown
+}
